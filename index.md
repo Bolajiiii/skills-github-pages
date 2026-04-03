@@ -1,5 +1,5 @@
 ---
-title: Bolaji's blog!
+title: Bolaji's blog
 ---
 # Bolaji's Blog
 ### Reasons why Bolaji is wise
